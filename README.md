@@ -1,2 +1,2 @@
 # whyUniverse
-Let's think together.
+Let's think together. Collaborators are welcome!
