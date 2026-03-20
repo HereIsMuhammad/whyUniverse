@@ -25,4 +25,4 @@ This is a collaborative space for curious minds. I value diverse perspectives an
 * **Status:** Active Research / Philosophical Log
 * **Focus:** Cosmology, Existentialism, Space Exploration <br>
 
-**I appreciate your opinions!**
+  **I appreciate your opinions!**
