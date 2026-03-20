@@ -24,5 +24,3 @@ This is a collaborative space for curious minds. I value diverse perspectives an
 ## Repository Status
 * **Status:** Active Research / Philosophical Log
 * **Focus:** Cosmology, Existentialism, Space Exploration
-
-*"The universe is a big place. It would be a huge waste of space if it’s just us."*
