@@ -1,7 +1,7 @@
 # whyUniverse
 A repository dedicated to exploring the intersection of astrophysics, existential philosophy, and the mysteries of the cosmos. 
 
-> **"If the Earth was enough for humans to live on then why was such a big universe created?"**
+> **If the Earth was enough for humans to live on then why was such a big universe created?**
 
 ## Core Objectives
 This repository serves as a centralized hub for:
